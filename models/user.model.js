@@ -33,7 +33,7 @@ const userSchema = new mongoose.Schema({
      required: true
     },
     tel_cel:{
-     type: Number_serv,
+     type: Number,
      required: true
     },     
     email: {
